@@ -1,0 +1,252 @@
+ .header li{ 
+    text-decoration: none;
+list-style-type:none;
+color: white;
+font-size: 15px;
+display: inline-flex;
+margin-left: 400px;
+font-family: 'Times New Roman', Times, serif;
+ }
+
+ ::placeholder{
+  font-size: 15px;
+}
+ 
+ .container-fluid img:hover{
+    padding: 5px;
+    transition: all 1s;
+    cursor: pointer;
+ }
+ .checked {
+   color: orange;
+ }
+ .btn btn-light{
+   margin-top: 50px;
+   font-family: 'Times New Roman', Times, serif;
+   
+}
+.card-img-top{
+   width: 500px;
+ 
+}
+ 
+.icon i{
+   font-size: 26px;
+   margin-top: 11px;
+   margin-left:-45px;
+   color: blue;
+}
+.container-fluid a{
+text-decoration: none;
+list-style-type: none;
+color: black;
+}
+ .modal{
+   top:150px;
+}
+ 
+ .item:hover{
+   cursor: pointer;
+   padding: 6px;
+   transition: all 1s;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 20px 20px;
+ }
+ 
+ .head-1{
+   font-family: 'Roboto', sans-serif;
+ }
+ .card-body p{
+   font-weight: bold;
+ }
+/* search bar */
+ .d-flex{
+   margin-left: -252px;
+ }
+  .container-1{
+   background-color: rgb(255, 255, 255);
+margin-top: 260px;
+height: 75vh;
+box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  }
+.head{
+  margin: 0px;
+  padding: 0px;
+  /* position
+  : relative; */
+}
+  h2{
+    color: black;
+font-size: 50px;
+margin-left:1100px;
+margin-top: -450px;
+}
+
+.badge{
+  cursor: pointer;
+/* padding: 7px; */
+}
+.badge img:hover{
+  box-shadow: rgba(3, 115, 140, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+transition: all 1s;
+}
+.footer{
+  background-color: rgb(0, 0, 0);
+  /* color: white; */
+  display: flex;
+  height: 55vh;
+  margin-top: 150px;
+}
+ .get{
+  margin-top: 25px;
+  color: whitesmoke;
+  margin-left:150px;
+  font-size: 19px;
+  font-weight: bold;
+ 
+ }
+.list{
+  margin-top: 100px;
+}
+.list ul li{
+  display: flex;
+  margin-bottom: 5px;
+  padding: 3px;
+  margin-left:-180px;
+  /* margin-top: -20px; */
+}
+.list a{
+  color: white;
+  font-size: 19px;
+  text-decoration: none;
+}
+.list li a:hover{
+  color: orangered;
+  transition: all  1s;
+}
+/* list-1 */
+
+.list-1{
+  margin-top: 10px;
+}
+.list-1 ul li{
+ 
+  margin-bottom: 5px;
+  padding: 3px;
+  margin-left:-80px;
+ /* margin-top: 22px; */
+}
+.list-1 ul{
+  margin-top:79px;
+}
+.list-1 a{
+  color: white;
+  font-size: 19px;
+  text-decoration: none;
+}
+.list-1 li a:hover{
+  color: orangered;
+  transition: all  1s;
+}
+.get-1 {
+  margin-top: 15px;
+  color: whitesmoke;
+  margin-left:180px;
+  font-size: 19px;
+ font-weight: bold;
+ }
+ list-5{
+  margin-top: 10px;
+}
+.list-5 ul li{
+ 
+  margin-bottom: 5px;
+  padding: 3px;
+  margin-left:-150px;
+ /* margin-top: 22px; */
+}
+.list-5 ul{
+  margin-top:79px;
+}
+.list-5 a{
+  color: white;
+  font-size: 19px;
+  text-decoration: none;
+}
+.list-5 li a:hover{
+  color: orangered;
+  transition: all  1s;
+ 
+}
+ 
+/* list 6 */
+list-6{
+  margin-top: 10px;
+}
+.list-6 li{
+ margin-left:15px;
+  margin-bottom: 5px;
+  /* padding: 3px; */
+
+
+ /* margin-top: 22px; */
+}
+.list-6 ul{
+  display: inline-flex;
+  margin-top:79px;
+  margin-left:-170px;
+}
+.list-6 a{
+  color: white;
+  font-size: 19px;
+  text-decoration: none;
+}
+.list-6 li a:hover{
+  color: orangered;
+  transition: all  1s;
+}
+ 
+/*  */
+.fa-facebook{
+ font-size: 25px;
+ /* width: 25px; */
+ border-radius: 100%;
+}
+ .fa-facebook:hover{
+background-color: blue;
+color: white; 
+cursor: pointer;
+transition: all 1s;
+ }
+ .fa-instagram{
+  font-size: 25px;
+  /* width: 25px; */
+  border-radius: 100%;
+ }
+
+ .fa-instagram:hover{
+  background-color: purple;
+  color: white; 
+  cursor: pointer;
+  transition: all 1s;
+   }
+/* twiteer */
+   .fa-twitter{
+    font-size: 25px;
+    /* width: 25px; */
+    border-radius: 100%;
+   }
+   .fa-twitter:hover{
+    background-color:rgb(6, 189, 209);
+    color: white; 
+    cursor: pointer;
+    transition: all 0.6s;
+     }
+     .list-5 i{
+      display: inline-flex;
+     }
+     .border{
+      margin-top: -150px;
+      border-bottom: 2px solid white;
+     }
+     /* torch effect by css */
+ 
